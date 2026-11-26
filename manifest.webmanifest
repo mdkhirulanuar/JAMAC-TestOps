@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "JAMAC TestOps",
+  "short_name": "JAMAC TestOps",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf1f5",
+  "theme_color": "#14283e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
